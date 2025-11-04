@@ -1,0 +1,103 @@
+{
+  "configVersion": 1,
+  "timestamp": 1762265171313,
+  "index": "/jome-demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/jome-demo/favicon.ico",
+        "/jome-demo/index.html",
+        "/jome-demo/main-EE5774HB.js",
+        "/jome-demo/manifest.webmanifest",
+        "/jome-demo/polyfills-FFHMD2TL.js",
+        "/jome-demo/styles-PBU34AT6.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/jome-demo/assets/fonts/Vazir.woff",
+        "/jome-demo/assets/fonts/Vazir.woff2",
+        "/jome-demo/icons/icon-128x128.png",
+        "/jome-demo/icons/icon-144x144.png",
+        "/jome-demo/icons/icon-152x152.png",
+        "/jome-demo/icons/icon-192x192.png",
+        "/jome-demo/icons/icon-384x384.png",
+        "/jome-demo/icons/icon-512x512.png",
+        "/jome-demo/icons/icon-72x72.png",
+        "/jome-demo/icons/icon-96x96.png",
+        "/jome-demo/media/Vazir-35J4PESC.woff",
+        "/jome-demo/media/Vazir-SK45JNGU.woff2",
+        "/jome-demo/media/fa-brands-400-Q3XCMWHQ.woff2",
+        "/jome-demo/media/fa-brands-400-R2XQZCET.ttf",
+        "/jome-demo/media/fa-regular-400-QSNYFYRT.woff2",
+        "/jome-demo/media/fa-regular-400-XUOPSR7E.ttf",
+        "/jome-demo/media/fa-solid-900-5ZUYHGA7.woff2",
+        "/jome-demo/media/fa-solid-900-PJNKLK6W.ttf",
+        "/jome-demo/media/fa-v4compatibility-LFEHZI6Y.woff2",
+        "/jome-demo/media/fa-v4compatibility-YY67RJWG.ttf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/jome-demo/assets/fonts/Vazir.woff": "3ab31d78e3770eb174ce510ebe2d371f00d3a322",
+    "/jome-demo/assets/fonts/Vazir.woff2": "c7aae29e63fd7540107bbfad2d467ae459bc60ea",
+    "/jome-demo/favicon.ico": "bfdffaec450a2092fab3ec53e61dbd353a98f140",
+    "/jome-demo/icons/icon-128x128.png": "35aafa116fc049ce7044738697bd45554e528882",
+    "/jome-demo/icons/icon-144x144.png": "0d7cf7b5100277487128e0eff46e5fb167135823",
+    "/jome-demo/icons/icon-152x152.png": "ec39d67b68349d15faed68eb65a7c867384b2998",
+    "/jome-demo/icons/icon-192x192.png": "d736c53c532a3539316c8744ee5ebb190bd9b74d",
+    "/jome-demo/icons/icon-384x384.png": "4752f3f8c559624754fe081a5ec3af621ea33d5a",
+    "/jome-demo/icons/icon-512x512.png": "e6f65f4155641b1aa2d1c5b10d068f74c6d9cca4",
+    "/jome-demo/icons/icon-72x72.png": "456ee522f78144af670e592600259588a6423af8",
+    "/jome-demo/icons/icon-96x96.png": "33063f807f5632c4af41eb1b9912ea21051ebf68",
+    "/jome-demo/index.html": "40a35873cad400c3f13666c0330a27a7f14e0690",
+    "/jome-demo/main-EE5774HB.js": "9afde7788e6ce76ab9458762629cd564dea47ff2",
+    "/jome-demo/manifest.webmanifest": "1633a829f638ed2e4ae9f36f9e6ead32a2ab6ca8",
+    "/jome-demo/media/Vazir-35J4PESC.woff": "3ab31d78e3770eb174ce510ebe2d371f00d3a322",
+    "/jome-demo/media/Vazir-SK45JNGU.woff2": "c7aae29e63fd7540107bbfad2d467ae459bc60ea",
+    "/jome-demo/media/fa-brands-400-Q3XCMWHQ.woff2": "31c30351084e2670bbe5c47bd342e11540a68717",
+    "/jome-demo/media/fa-brands-400-R2XQZCET.ttf": "da6f537cd597b76d264970f1c95e4beebc82fde9",
+    "/jome-demo/media/fa-regular-400-QSNYFYRT.woff2": "e9b6f5b842be227e2423733feb961dd6cb804066",
+    "/jome-demo/media/fa-regular-400-XUOPSR7E.ttf": "6e7f0651059eea9783ea8b28892b2c979c2f7f30",
+    "/jome-demo/media/fa-solid-900-5ZUYHGA7.woff2": "7cd8afd6501962fda35d66f0e4c3b8815ac471d8",
+    "/jome-demo/media/fa-solid-900-PJNKLK6W.ttf": "780a8ff16ebb681f85d5d30fac94ebe845a12b5e",
+    "/jome-demo/media/fa-v4compatibility-LFEHZI6Y.woff2": "4fd82f39237a3e52cb4e311d1961bbb47353a147",
+    "/jome-demo/media/fa-v4compatibility-YY67RJWG.ttf": "ad415f99aab4d9bf17e523f484a377f839ca8c3c",
+    "/jome-demo/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/jome-demo/styles-PBU34AT6.css": "0540e08cffedb58dd336bc92c77a828a9be6ba82"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
